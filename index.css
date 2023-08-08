@@ -1,0 +1,41 @@
+.container1{
+    height: 100px;
+    width: 500px;
+    background-image: radial-gradient(white,skyblue,pink);
+    align-content: center;
+    margin-left: 300px;
+    border-radius: 2mm;
+}
+.he{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.container{
+   height: 200px;
+   width: 500px;
+   background-image: radial-gradient(white,skyblue,pink);
+   align-content: center;
+   margin-left: 300px;
+   border-radius: 2mm;
+   transition-property: all;
+}
+input{
+    background-color: transparent;
+    border-radius: 1mm;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 50%;
+    margin-right:40%;
+
+
+}
+.btn:hover{
+    background-color: lightpink;
+    border-color: white;
+
+
+}
+label{
+    margin-left: 50px;
+}
